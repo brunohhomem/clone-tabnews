@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next dev"
   },
-  "author": "",
+  "author": "Bruno H. Homem",
   "license": "MIT",
   "dependencies": {
     "next": "^13.1.6",
